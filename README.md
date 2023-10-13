@@ -1,4 +1,8 @@
 ### Hi there 👋
+My name is **Joel**: geek, passionate about techonlogy, python, DIY, videogames, raspberry Pi, rock climbing...
+- 🔭 I’m currently working on Airbus Upnext as SW developer.
+- 🌱 I’m currently learning intermediate machine learning and IA skills.
+- 📫 How to reach me: joelperez91@gmail.com or [Linkedin](https://www.linkedin.com/in/joel-p%C3%A9rez-izquierdo-70817538/)
 
 <!--
 **jpizquierdo/jpizquierdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
